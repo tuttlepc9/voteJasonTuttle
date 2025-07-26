@@ -55,5 +55,5 @@
 [[forms.notifications]]
   type = "email"
   event = "submission"
-  to = "mail@jasontuttle.com"  # Update this with your actual email
+  to = "tuttlepc@hotmail.com"  # Update this with your actual email
   subject = "New Campaign Website Contact"
