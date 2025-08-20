@@ -30,7 +30,7 @@ Jason Tuttle is running for Loudon County Commission, District 2 in Tennessee. T
 ### About Jason
 - Background in law enforcement and public service
 - Community involvement since 2005
-- Current work at Dollar Tree (accessible to constituents)
+  
 
 ### Policy Positions
 - ✅ Support Controlled Growth
@@ -41,7 +41,7 @@ Jason Tuttle is running for Loudon County Commission, District 2 in Tennessee. T
 - ❌ Allow Unchecked Development
 
 ### Community Engagement
-- **Coffee & Conversation**: Informal chats at Dollar Tree
+- **Coffee & Conversation**: Informal chats
 - **Alignment Discussions**: Focused policy conversations
 - **Town Hall Meetings**: Public forums (coming soon)
 
@@ -67,7 +67,6 @@ All form submissions are handled by Netlify Forms and can be viewed in the Netli
 ## 📧 Contact Information
 
 - **Email**: info@jasontuttle.com
-- **Campaign Office**: Dollar Tree, Lenoir City (next to Walmart)
 - **District**: Loudon County Commission District 2
 
 ## 🤝 Contributing
